@@ -13,3 +13,9 @@
 
 ### Images
 1. https://unsplash.com
+
+### Design
+1. https://app.haikei.app/
+
+### Coding
+1. https://snappify.io/editor
