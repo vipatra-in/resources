@@ -6,16 +6,19 @@
 
 ### Illustrations
 1. https://www.humaaans.com/
-2. https://lukaszadam.com/illustrations
-3. https://undraw.co/
-4. https://illlustrations.co/
-5. https://2.flexiple.com/scale/multi-color-illustrations?ref=producthunt
+2. https://freepik.com
+3. https://lukaszadam.com/illustrations
+4. https://undraw.co/
+5. https://illlustrations.co/
+6. https://2.flexiple.com/scale/multi-color-illustrations?ref=producthunt
 
 ### Documentation
 1. https://readme.so
 
 ### Images
-1. https://unsplash.com
+1. https://pexels.com
+2. https://pixabay.com
+3. https://unsplash.com
 
 ### Coding
 1. https://snappify.io/editor
