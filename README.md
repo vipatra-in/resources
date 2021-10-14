@@ -25,3 +25,8 @@
 
 ### Productivity
 1. https://aitrack.work
+
+### Icons
+1. https://css.gg/
+2. https://lucide.dev
+3. https://icons.getbootstrap.com
