@@ -12,6 +12,7 @@
 4. https://undraw.co/
 5. https://illlustrations.co/
 6. https://2.flexiple.com/scale/multi-color-illustrations?ref=producthunt
+7. https://error404.fun
 
 ### Documentation
 1. https://readme.so
