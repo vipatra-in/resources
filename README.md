@@ -3,6 +3,7 @@
 2. https://animate.style
 3. https://www.gradientmagic.com/
 4. https://app.haikei.app/
+5. https://appydev.co
 
 ### Illustrations
 1. https://www.humaaans.com/
