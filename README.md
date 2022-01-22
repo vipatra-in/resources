@@ -4,6 +4,9 @@
 3. https://www.gradientmagic.com/
 4. https://app.haikei.app/
 5. https://appydev.co
+6. https://cssgradients.io
+7. https://cssmatic.com
+8. https://bennettfeely.com
 
 ### Illustrations
 1. https://www.humaaans.com/
