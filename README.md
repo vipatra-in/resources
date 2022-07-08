@@ -38,3 +38,4 @@
 1. https://css.gg/
 2. https://lucide.dev
 3. https://icons.getbootstrap.com
+4. https://iconsvg.xyz
