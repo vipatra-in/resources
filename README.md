@@ -9,6 +9,7 @@
 8. https://bennettfeely.com
 9. https://pixelart.liveblocks.app/?room=c8ff4ad6b8c778da8ada8
 10. https://palette.rocks
+11. https://box-shadow.dev
 
 ### Illustrations
 1. https://www.humaaans.com/
