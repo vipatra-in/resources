@@ -29,6 +29,7 @@
 1. https://pexels.com
 2. https://pixabay.com
 3. https://unsplash.com
+4. https://www.upscale.media
 
 ### Coding
 1. https://snappify.io/editor
