@@ -49,6 +49,7 @@
 3. https://icons.getbootstrap.com
 4. https://iconsvg.xyz
 5. https://futicons.com
+6. https://remixicon.com
 
 ### Tols
 1. https://www.toools.design
