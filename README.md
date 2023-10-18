@@ -56,3 +56,6 @@
 
 ### Responsive Design
 1. https://utopia.fyi/
+
+### Favicons
+1. https://favicon.zip/
