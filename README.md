@@ -22,6 +22,7 @@
 7. https://error404.fun
 8. https://pfpmaker.com
 9. https://www.svgrepo.com
+10. https://cssloaders.github.io
 
 ### Documentation
 1. https://readme.so
