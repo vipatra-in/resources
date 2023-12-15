@@ -60,3 +60,6 @@
 
 ### Favicons
 1. https://favicon.zip/
+
+### Tutorials
+1. https://levelup.video
