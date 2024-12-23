@@ -52,7 +52,7 @@
 5. https://futicons.com
 6. https://remixicon.com
 
-### Tols
+### Tools
 1. https://www.toools.design
 
 ### Responsive Design
@@ -63,3 +63,6 @@
 
 ### Tutorials
 1. https://levelup.video
+
+### Web Dev Tools
+1. https://og.new
